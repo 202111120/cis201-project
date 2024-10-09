@@ -1,0 +1,64 @@
+body{
+
+text-align: center;
+margin: 50px 0px;
+padding: 0%;
+background-image: url(https://static.vecteezy.com/system/resources/previews/007/120/320/original/galaxy-background-with-falling-star-space-galaxy-illustration-free-vector.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+table, th, td{
+
+    margin-left: 35%;
+    border: 4px solid black;
+    border-collapse: collapse;
+    padding: 36px;
+    table-layout: auto;
+    background-color: blueviolet;
+    font-size: 100%;
+    color: black;
+}
+caption{
+
+    font-size: 150%;
+    font-weight: bold;
+    color: floralwhite;
+
+}
+
+h1{
+
+    font-size: 300%;
+    font-family: 'Times New Roman', Times, serif;
+    color: floralwhite;
+
+}
+
+h2{
+
+    font-size: 200%;
+    color: floralwhite;
+
+}
+
+label{
+
+    color: skyblue;
+
+}
+
+form{
+ 
+    background-color: skyblue;
+    display: inline-block;
+
+}
+
+
+
+
+
+
+
+
